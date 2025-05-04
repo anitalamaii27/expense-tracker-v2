@@ -338,7 +338,7 @@ python-json-logger==3.2.1
 python-Levenshtein==0.26.1
 python-magic==0.4.27
 python-mimeparse==2.0.0
-python-poppler==0.4.1
+#python-poppler==0.4.1
 pytz==2024.1
 PyWavelets==1.7.0
 PyYAML==6.0.2
